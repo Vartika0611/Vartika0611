@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Vartika Singh, I am enthusiastic about Artificial intelligence and Machine learning 
+I’m Vartika Singh, a B.Tech CSE (AI & ML) student passionate about AI, Machine Learning, and Web Development. I enjoy building impactful, user-focused applications and continuously exploring technologies that solve real-world problems.
 
 <!--
 **Vartika0611/Vartika0611** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
