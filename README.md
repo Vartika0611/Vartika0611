@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Vartika Singh
-**AI/ML • Web Development • Ideas into impactful Tech**
+**AI/ML Enthusiast🌸 •  Chatbot Integrations🤖 • Development with Python🤍 • Ideas into impactful Tech💡**
 
-Email Me 👉 ✉️ **vartikaaa.1234@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **vartikaaa.1234@gmail.com** 
 
 - 🔭 **I’m currently working on:** AI-powered web applications
 - 🌱 **I’m currently learning:** Advanced Machine Learning, Deep Learning, and modern web technologies
