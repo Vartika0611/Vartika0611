@@ -8,7 +8,7 @@ Email Me At: 👉 ✉️ **vartikaaa.1234@gmail.com**
 - 👯 **I’m looking to collaborate on:** AI/ML projects, web applications, and innovative tech solutions
 - 🤔 **I’m looking for help with:** Model optimization, real-world AI deployment, and scalable systems
 - 💬 **Ask me about:** Collaboration, Tech Support, Development.
-- 😄 **Pronouns:** She/Her
+- 😄 **Pronouns:** She/Her.
 - ⚡ **Fun fact:** I love building intelligent systems that solve real-world problems 🤖✨
 
 ### ✍️ Random Dev Quote
