@@ -4,7 +4,7 @@
 Email Me At: 👉 ✉️ **vartikaaa.1234@gmail.com** 
 
 - 🔭 **I’m currently working on:** AI-powered web applications.
-- 🌱 **I’m currently learning:** Advanced Machine Learning, Deep Learning, and modern web technologies
+- 🌱 **I’m currently learning:** Advanced Machine Learning, Deep Learning, and modern web technologies.
 - 👯 **I’m looking to collaborate on:** AI/ML projects, web applications, and innovative tech solutions
 - 🤔 **I’m looking for help with:** Model optimization, real-world AI deployment, and scalable systems
 - 💬 **Ask me about:** Collaboration, Tech Support, Development.
