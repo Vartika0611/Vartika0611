@@ -9,7 +9,7 @@ Email Me At: 👉 ✉️ **vartikaaa.1234@gmail.com**
 - 🤔 **I’m looking for help with:** Model optimization, real-world AI deployment, and scalable systems
 - 💬 **Ask me about:** Collaboration, Tech Support, Development.
 - 😄 **Pronouns:** She/Her.
-- ⚡ **Fun fact:** I love building intelligent systems that solve real-world problems 🤖✨
+- ⚡ **Fun fact:** I love building intelligent systems that solve real-world problems 🤖✨.
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
