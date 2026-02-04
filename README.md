@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Vartika Singh
-**AI/ML Enthusiast🌸 •  Chatbot Integrations🤖 • Development with Python🤍 • From Ideas to impactful Tech💡**
+**AI/ML Enthusiast🌸 •  Development with Python🤍  •Chatbot Integrations🤖 • From Ideas to impactful Tech💡**
 
 Email Me At: 👉 ✉️ **vartikaaa.1234@gmail.com** 
 
